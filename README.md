@@ -1,2 +1,2 @@
 # A-Basic-YOLO-Demo
-This is a basic YOLO demo for object detection
+This is a basic YOLO demo for object detection with Kevin
